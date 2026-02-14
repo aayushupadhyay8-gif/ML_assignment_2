@@ -8,7 +8,7 @@
 - Instances: 45,211
 - Attributes: 16 (mixed categorical and numerical). After one-hot encoding, feature vector > 12 dimensions.
 
-**Models implemented**
+Models implemented
 1. Logistic Regression
 2. Decision Tree Classifier
 3. K-Nearest Neighbors
@@ -57,4 +57,3 @@ streamlit run streamlit_app.py
 
 **Notes**
 - Run `model/train.py` to produce the `results.csv` and saved model files required by the Streamlit app.
-- If you want, I can run the training here and attach the generated `results.csv` and model files — tell me to proceed and I will run the training now.
